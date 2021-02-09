@@ -1,0 +1,7 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Code-Review+2: Bartek Grzybowski <b.grzybowski@partner.samsung.com>
+Submitted-by: Bartek Grzybowski <b.grzybowski@partner.samsung.com>
+Submitted-at: Tue, 09 Feb 2021 13:41:48 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/simulators/ran-nssmf-simulator/+/117507
+Project: integration/simulators/ran-nssmf-simulator
+Branch: refs/heads/master
